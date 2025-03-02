@@ -19,5 +19,6 @@ def main():
     #print(line)
   print("lines:", lineCount)
   print("words:", wordCount)
+  print("Letter:", letterCount)
 if __name__ == '__main__':
   main()
